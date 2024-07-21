@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* BEng in Computer Science and Mathematics, The Hong Kong University of Science and Technology, 2026 (expected)
+* BBA in General Business Management, The Hong Kong University of Science and Technology, 2026 (expected)
+* VNU-HCM High School for the Gifted, 2018
 
 Work experience
 ======
