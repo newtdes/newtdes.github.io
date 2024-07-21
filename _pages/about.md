@@ -9,13 +9,15 @@ redirect_from:
 
 This website is last updated on **07/21/2024**
 
-A data-driven personal website
+About me
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Hi everyone, welcome to my personal website. I'm junior (or sophomore, depends on your perspectives) at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/), where I am currently studying Computer Science, Mathematics, and Economics.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My hobbies (that relate to academics :P) is mainly about Economics, Finance, and a bit in Politics. Currently, I am doing research that applies a simple machine learning model to identify price patterns that are highly predictable of returns. I also like to read about how different political institutions can affect a country's economic development, and whether it is possible that an institution is superior than the others.
 
-Getting started
+My hobbies (that do not relate to academics at all :P) is to watch movies, read books (that not so many people read :P), and learn languages. Currently, I am learning Mandarin（國語）and Cantonese（廣東話）although my Cantonese does not get any better.
+
+Activity
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
