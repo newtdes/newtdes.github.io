@@ -19,4 +19,4 @@ My hobbies (that do not relate to academics at all :P) is to watch movies, read 
 
 Personal Activity
 ======
-* Finish a replication of paper (Re-)imag(in)ing Price Trends with Doris Yang, under the supervision of Prof. Don Noh. Code and report will be posted soon!
+* (08/2024) Finish a partial replication of paper [(Re-)imag(in)ing Price Trends](https://economics.yale.edu/research/re-imagining-price-trends) with Doris Yang, under the supervision of Prof. Don Noh. Code and report will be posted soon!

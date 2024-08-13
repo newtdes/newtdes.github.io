@@ -15,6 +15,23 @@ Education
 * BBA in General Business Management, The Hong Kong University of Science and Technology, 2026 (expected)
 * VNU-HCM High School for the Gifted, 2018
 
+Research experience
+=====
+* June 2024 - now: Research Assistant for Prof. Don Noh
+  * Project: Application of Machine Learning to Financial Data, with Doris Yang Zimo
+  * Replicate paper [(Re-)imag(in)ing Price Trends](https://economics.yale.edu/research/re-imagining-price-trends)
+    * Reconstruct approximately 2.3 million images, with each image contains OHLC chart, volume bar, and moving average line
+    * Reconstruct a convolutional neural network (CNN) model that matches the paper's specification
+    * Partially train part of training data
+  * Code and report: will be updated
+  * Tool: Python, plotly, matplotlib, numpy, pandas, keras, tensorflow
+* November 2023 - now: Research Assistant for Prof. Edwin Lai
+  * Project: International Trade and Foreign Exchange
+    * Collect, clean, and maintain datasets and databases for economics-research purposed
+    * Extract and link data from multiple databases for analysis
+    * Develop models and implement program code (R). Perform statistical analysis, mainly on regression analysis
+  * Tool: R, pandas
+
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
