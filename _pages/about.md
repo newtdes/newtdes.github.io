@@ -17,6 +17,6 @@ My hobbies (that relate to academics :P) is mainly about Economics, Finance, and
 
 My hobbies (that do not relate to academics at all :P) is to watch movies, read books (that not so many people read :P), and learn languages. Currently, I am learning Mandarin（國語）and Cantonese（廣東話）although my Cantonese does not get any better.
 
-Activity
+Personal Activity
 ======
-Will be updated later
+* Finish a replication of paper (Re-)imag(in)ing Price Trends with Doris Yang, under the supervision of Prof. Don Noh. Code and report will be posted soon!
