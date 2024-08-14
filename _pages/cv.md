@@ -34,48 +34,45 @@ Research experience
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 06/2024 - 08/2024: Software Engineer at [Good Chain](https://www.good-chain.com/)
+  * Develop a scrapping process for scrapping data on YouTube, WordPress-powered page, etc.
+  * Scrape and transcribe 30 YouTube channels, each with approximately 150 Gb of data
+  * Scrape and structure 10 sources, each with approximately 500 content pages.
+  * Perform explanatory analysis of datasets
+  * Tool: whisper, prefect, selenium, markdownify, yt_dlp, Python
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 12/2022 - 1/2023: ESG Research Assistant at at [HKUST Sustainability](https://sust.hkust.edu.hk/)
+  * Take charge in designing the overall structure of HKUST ESG Report 2021-2022 
+  * Create visual representations that effectively communicate crucial data to audiences.
+  * Conduct extensive research on prevailing ESG practices and pertinent standards
+  * Design visualizations on existing campus data to supplement the University ESG plan.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+To be updated
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <!-- <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+To be updated
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
+  <!-- <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+To be updated
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <!-- <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+To be updated
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+<!-- * Currently signed in to 43 different slack teams -->
+To be updated
