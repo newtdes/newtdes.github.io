@@ -21,3 +21,8 @@ Personal Activity
 ======
 * (08/2024) Finish a partial replication of paper [(Re-)imag(in)ing Price Trends](https://economics.yale.edu/research/re-imagining-price-trends) with Doris Yang, under the supervision of Prof. Don Noh. Code and report will be posted soon!
 * (06/2024) Start my internship at [Good Chain and Sustainable Supplies](https://www.good-chain.com/). My internship will last until 08/2024.
+
+Weekly Calendar
+=====
+Change to "Week" if you want to view it easier. The default mode is "Month" (at least this is what I see on my side).
+<iframe src="https://calendar.google.com/calendar/embed?src=nguyenkimhuenamtdn%40gmail.com&ctz=Asia%2FHong_Kong" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
