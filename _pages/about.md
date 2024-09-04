@@ -13,7 +13,7 @@ About me
 ======
 Hi everyone, welcome to my personal website. I'm junior (or sophomore, depends on your perspectives) at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/), where I am currently studying Computer Science, Mathematics, and Economics.
 
-My hobbies (that relate to academics :P) is mainly about Economics, Finance, and a bit in Politics. Currently, I am doing research that applies a simple machine learning model to identify price patterns that are highly predictable of returns. I also like to read about how different political institutions can affect a country's economic development, and whether it is possible that an institution is superior than the others.
+My hobbies (that relate to academics :P) is mainly about Economics, Finance, and a bit in Politics. Currently, I am doing research that applies a simple machine learning model to identify price patterns that are highly predictable of returns. I am also interested in research about different types of investors, such as retail investors and institutional investors, as well as other topics about international trade and macroeconomics.
 
 My hobbies (that do not relate to academics at all :P) is to watch movies, read books (that not so many people read :P), and learn languages. Currently, I am learning Mandarin（國語）and Cantonese（廣東話）although my Cantonese does not get any better.
 
@@ -27,4 +27,5 @@ Weekly Calendar
 Change to "Week" if you want to view it easier. The default mode is "Month" (at least this is what I see on my side).
 
 Scroll up and down to see more timeslot (the default is from 12PM to 11PM).
-<iframe src="https://calendar.google.com/calendar/embed?src=nguyenkimhuenamtdn%40gmail.com&ctz=Asia%2FHong_Kong" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=nguyenkimhuenamtdn%40gmail.com&ctz=Asia%2FHong_Kong" style="border: 0" width="800" 
+height="600" frameborder="0" scrolling="no"></iframe>
