@@ -11,7 +11,7 @@ This website is last updated on **08/14/2024**
 
 About me
 ======
-Hi everyone, welcome to my personal website. I'm junior (or sophomore, depends on your perspectives) at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/), where I am currently studying Computer Science, Mathematics, and Economics.
+Hi everyone, welcome to my personal website. I'm senior (or junior, depends on your perspectives) at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/), where I am currently studying Computer Science, Mathematics, and Economics. I expect to graduate in 2026.
 
 My hobbies (that relate to academics :P) is mainly about Economics, Finance, and a bit in Politics. Currently, I am doing research that applies a simple machine learning model to identify price patterns that are highly predictable of returns. I am also interested in research about different types of investors, such as retail investors and institutional investors, as well as other topics about international trade and macroeconomics.
 
