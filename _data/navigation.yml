@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "About Me"
+    url: /about-me/
+
   - title: "Publications/Projects"
     url: /publications/
 
@@ -14,9 +18,6 @@ main:
         
   - title: "Blog Posts"
     url: /blog-posts/
-    
-  - title: "About Me"
-    url: /about-me/
 
   # - title: "Projects"
   #   url: /projects/
