@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publications/Projects"
     url: /publications/
 
   # - title: "Talks"
@@ -18,8 +18,8 @@ main:
   - title: "About Me"
     url: /about-me/
 
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
     
   # - title: "Guide"
   #   url: /markdown/
