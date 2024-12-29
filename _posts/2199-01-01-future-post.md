@@ -1,7 +1,7 @@
 ---
 title: 'My First Blog in My Website'
 date: 2024-12-28
-permalink: /posts/2024/12/08/blog-post-4/
+permalink: /posts/2024/12/08/blog-post-1/
 tags:
   - cool posts
   - category1
