@@ -27,6 +27,8 @@ I also want to use this space to share courses that I have taken at HKUST, for c
 
 In no particular order and preference, I want to pay early tribute to my friends here, who are very supportive towards me, who have been carrying me throughout my time at HKUST. Without them, I cannot survive in this intense environment!
 
+I actually remember my friends' English romanization, since I believe it is important to remember people's names as a whole. 
+
 1. Brian Chen Shr-en, from Taiwan
 
 Okay, I can say that Brian and I took a lot of classes together, but we did not actually open our mouth to start a conversation until Fall 2024. Brian's mind is brilliant, and honestly I do not know how many times I have to emphasize the word **brilliant**. He excels in both mathematics and computer science, and to me he is like 學長 (xuezhang or hsueh ch'ang, means senior) due to his pretty mature personality.
@@ -44,3 +46,29 @@ Darren also majors in DSCT, COSC, and MATH.
 Courses take together: MATH 2121, COMP 2211, MATH 4321, MATH 3423, COMP 4211, COMP 3711H (I think I still lost some courses since we took too many courses together)
 
 3. Adrian Lee Man-chun, from Hong Kong
+
+4. Kolman Ku Ho-ming, from Hong Kong
+
+5. Jayden Zhu Jia-dong, from China
+
+6. Kelvin Tam Kiu-wai, from Hong Kong
+
+7. Gary Wan Ho-chi, from Hong Kong
+
+8. April Song Ren-he, from China
+
+9. Stephen Lee Wing-hong, from Hong Kong
+
+10. Vincent Wang Zi-xuan (王子軒), from China
+
+11. Theo Wong Yat-fung, from Hong Kong
+
+12. Saadman Dewan Hasan, from Bangladesh 
+
+13. Jain Teerth, from India
+
+14. Aarav Kumar, from India
+
+15. Gordon Su Han-kai, from China
+
+(lists still updated since I need to think a bit on what to write :P)
