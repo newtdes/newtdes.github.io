@@ -27,3 +27,20 @@ I also want to use this space to share courses that I have taken at HKUST, for c
 
 In no particular order and preference, I want to pay early tribute to my friends here, who are very supportive towards me, who have been carrying me throughout my time at HKUST. Without them, I cannot survive in this intense environment!
 
+1. Brian Chen Shr-en, from Taiwan
+
+Okay, I can say that Brian and I took a lot of classes together, but we did not actually open our mouth to start a conversation until Fall 2024. Brian's mind is brilliant, and honestly I do not know how many times I have to emphasize the word **brilliant**. He excels in both mathematics and computer science, and to me he is like 學長 (xuezhang or hsueh ch'ang, means senior) due to his pretty mature personality.
+
+We also went to Shanghai, with Sylvia as well :). It was such a memorable trip!
+
+Courses take together: MATH 3423, COMP 4211, COMP 3711H, and COMP 5331 (but he dropped lol)
+
+2. Darren Shawn Chua, from the Philippines
+
+I actually had no friends in my year 1 due to Covid-19 pandemic, but I was fortunate to sit next to Darren in COMP 2211 class. Darren is nice and smart, but he is a bit towards on deadline fighter (so a bit opposite to me haha). We did a project together in COMP 4211, and honestly at that time I was so afraid we could not make it on time. 
+
+Darren also majors in DSCT, COSC, and MATH.
+
+Courses take together: MATH 2121, COMP 2211, MATH 4321, MATH 3423, COMP 4211, COMP 3711H (I think I still lost some courses since we took too many courses together)
+
+3. Adrian Lee Man-chun, from Hong Kong
