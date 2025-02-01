@@ -14,6 +14,7 @@ redirect_from:
 - [Introduction](#introduction)
 - [Tribute to my friends](#tribute-to-my-friends)
 - [Courses at HKUST](#courses-at-hkust)
+- [Life Dairy](#life-dairy)
 
 ## Introduction
 
