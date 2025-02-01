@@ -54,5 +54,5 @@ Languages
 * Vietnamese: Native
 * English: Fluent, hopefully near native, with a mix of Vietnamese, Hong Kong, and Singaporean accent :D
 * Mandarin: Intermediate, say IELTS 5.5-6.0 (TOCFL 3-4)
-* Cantonese: Conversational 
+* Cantonese: Conversational, those bad words and other daily life conversations
 
