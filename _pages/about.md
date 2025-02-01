@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This website is last updated on **12/29/2024**. Still under more constructions!
+This website is last updated on **02/01/2024**. Still under more constructions!
 
 About me
 ======
