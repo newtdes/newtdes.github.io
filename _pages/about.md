@@ -21,9 +21,9 @@ My hobbies (that do not relate to academics at all :P) is to watch movies, read 
 
 Personal Activity
 ======
+* (04/2025) The partial code of my project [(Re-)imag(in)ing Price Trends](https://economics.yale.edu/research/re-imagining-price-trends) is now public.
 * (01/2025) I have also been accepted to [DSCT](https://dsct.hkust.edu.hk/)! 
 * (11/2024) Finish my first project with one of my best friends, Darren Chua
-* (08/2024) Finish a partial replication of paper [(Re-)imag(in)ing Price Trends](https://economics.yale.edu/research/re-imagining-price-trends) with Doris Yang, under the supervision of Prof. Don Noh. Code and report will be posted soon!
 * (06/2024) Start my internship at [Good Chain and Sustainable Supplies](https://www.good-chain.com/). My internship will last until 08/2024.
 
 Weekly Calendar
