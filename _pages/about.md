@@ -23,7 +23,7 @@ Personal Activity
 ======
 * (04/2025) The partial code of my project [(Re-)imag(in)ing Price Trends](https://economics.yale.edu/research/re-imagining-price-trends) is now public.
 * (01/2025) I have also been accepted to [DSCT](https://dsct.hkust.edu.hk/)! 
-* (11/2024) Finish my first project with one of my best friends, Darren Chua
+* (12/2024) Two of my projects this semester have been public: CIPM and a replication of a KDD paper. 
 * (06/2024) Start my internship at [Good Chain and Sustainable Supplies](https://www.good-chain.com/). My internship will last until 08/2024.
 
 Weekly Calendar
