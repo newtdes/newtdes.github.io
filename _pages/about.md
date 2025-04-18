@@ -15,7 +15,7 @@ Hi everyone, welcome to my personal website. I'm senior (or junior, depends on y
 
 My journey at HKUST that leads to that many majors is unpredictable and lucky, but I feel fortunate to have the support of my family and a group of nice and supportive friends around :). Probably I should have a page for my friends in my website.
 
-My current hobbies that I figure it out are mainly about Statistical Learning and Finance. I am interested in doing research about applications of machine learning in investment, and in finance in general. I am also interested in other ML-related topics: for example, I am also exploring recommendation systems.
+My current hobbies that I figure it out are mainly about Statistical Learning and Quant Finance. For Quant Finance, I am involved in an options pricing project with Prof. Carsten Chong. For Statistical Learning, I am working on recommender systems with the intention of making it my final year thesis, as well as collaborating with my friend on a project about learning users' utility through interaction algorithms. Both are supervised by Prof. Raymond Wong.
 
 My hobbies (that do not relate to academics at all :P) is to watch movies, read books (that not so many people read :P), and learn languages. Currently, I am learning Mandarin（國語）and Cantonese（廣東話）although my Cantonese does not get any better.
 
