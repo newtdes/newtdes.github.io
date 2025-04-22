@@ -18,12 +18,16 @@ Education
 
 Research experience
 =====
-* 06/2024 - now: Research Assistant for Prof. Don Noh
+* 01/2025 - now: Working for Prof. Raymond Wong
+  * Project: Improve Session-based Recommender Systems
+* 01/2025 - now: Working for Prof. Carsten Chong
+  * Project: 0DTE Options Pricing
+* 06/2024 - 12/2024: Research Assistant for Prof. Don Noh
   * Project: Application of Machine Learning to Financial Data, with Doris Yang Zimo
   * Replicate paper [(Re-)imag(in)ing Price Trends](https://economics.yale.edu/research/re-imagining-price-trends)
     * Reconstruct approximately 2.3 million images, with each image contains OHLC chart, volume bar, and moving average line
     * Reconstruct a convolutional neural network (CNN) model that matches the paper's specification
-    * Partially train part of training data
+    * Partially train part of training data. We are able to construct the quantile table of stocks to empirically show the better performance of the method.
   * Code and report: will be updated
   * Tool: Python, plotly, matplotlib, numpy, pandas, keras, tensorflow
 * 11/2023 - 11/2024: Research Assistant for Prof. Edwin Lai
