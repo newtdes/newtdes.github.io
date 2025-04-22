@@ -20,6 +20,7 @@ Research experience
 =====
 * 01/2025 - now: Working for Prof. Raymond Wong
   * Project: Improve Session-based Recommender Systems
+  * Project: to be confirmed
 * 01/2025 - now: Working for Prof. Carsten Chong
   * Project: 0DTE Options Pricing
 * 06/2024 - 12/2024: Research Assistant for Prof. Don Noh
