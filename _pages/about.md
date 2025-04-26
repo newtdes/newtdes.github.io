@@ -21,6 +21,7 @@ My hobbies (that do not relate to academics at all :P) is to watch movies, read 
 
 Personal Activity
 ======
+* (05/2025) I will be joining 2025 HKUST-SNU SPIA this summer!
 * (04/2025) The partial code of my project [(Re-)imag(in)ing Price Trends](https://economics.yale.edu/research/re-imagining-price-trends) is now public.
 * (01/2025) I have also been accepted to [DSCT](https://dsct.hkust.edu.hk/)! 
 * (12/2024) Two of my projects this semester have been public: CIPM and a replication of a KDD paper. 
