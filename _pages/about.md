@@ -11,7 +11,7 @@ This website is last updated on **02/01/2024**. Still under more constructions!
 
 About me
 ======
-Hi everyone, welcome to my personal website. I'm senior (or junior, depends on your perspectives) at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/), where I am fortunate to study Computer Science (CSE), Mathematics (MATH), Data Science (DSCT), and General Business Management (GBM) (but more in Finance and Economics). I expect to graduate in 2026.
+Hi everyone, welcome to my personal website. I'm senior (or junior, depends on your perspectives) at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/), where I am studying Computer Science (CSE), Mathematics (MATH), Data Science (DSCT), and General Business Management (GBM) (but more in Finance and Economics). I expect to graduate in 2026. I am also a proud Saigonese!
 
 My journey at HKUST that leads to that many majors is unpredictable and lucky, but I feel fortunate to have the support of my family and a group of nice and supportive friends around :). Probably I should have a page for my friends in my website.
 
