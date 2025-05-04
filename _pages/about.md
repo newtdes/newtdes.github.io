@@ -39,7 +39,9 @@ height="600" frameborder="0" scrolling="no"></iframe>
 
 Booking to talk with me!
 =====
-Total free of charge (who am I to charge???). If you are my friends, just directly contact me :D.
+Total free of charge (who am I to charge???). If you are my friends, just directly contact me :D. 
+
+Before meeting, please send me an email/message on what topic you want to talk!
 <!-- Google Calendar Appointment Scheduling begin -->
 <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ15TsVs66cxMxBh5TcQoxLCOrdVzpr_ILU1q9ig17vKZIMQONiDksIx81lEpzCN0NA05-KRf4dh?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
 <!-- end Google Calendar Appointment Scheduling -->
