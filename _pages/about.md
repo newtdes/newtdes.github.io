@@ -34,3 +34,23 @@ Change to "Week" if you want to view it easier. The default mode is "Month" (at 
 Scroll up and down to see more timeslot (the default is from 12PM to 11PM).
 <iframe src="https://calendar.google.com/calendar/embed?src=nguyenkimhuenamtdn%40gmail.com&ctz=Asia%2FHong_Kong" style="border: 0" width="800" 
 height="600" frameborder="0" scrolling="no"></iframe>
+
+Booking to talk with me!
+=====
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ15TsVs66cxMxBh5TcQoxLCOrdVzpr_ILU1q9ig17vKZIMQONiDksIx81lEpzCN0NA05-KRf4dh?gv=true',
+      color: '#039BE5',
+      label: 'Book an appointment',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
