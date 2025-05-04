@@ -37,20 +37,7 @@ height="600" frameborder="0" scrolling="no"></iframe>
 
 Booking to talk with me!
 =====
+Total free of charge (who am I to charge???). If you are my friends, just directly contact me :D.
 <!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ15TsVs66cxMxBh5TcQoxLCOrdVzpr_ILU1q9ig17vKZIMQONiDksIx81lEpzCN0NA05-KRf4dh?gv=true',
-      color: '#039BE5',
-      label: 'Book an appointment',
-      target,
-    });
-  });
-})();
-</script>
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ15TsVs66cxMxBh5TcQoxLCOrdVzpr_ILU1q9ig17vKZIMQONiDksIx81lEpzCN0NA05-KRf4dh?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
 <!-- end Google Calendar Appointment Scheduling -->
