@@ -32,6 +32,6 @@ I also want to use this space to share courses that I have taken at HKUST, for c
 
 2025/05/04 Dimsum at China Garden. It is pretty hard to gather every person at 1 time.
 
-![From right to left: Andy, Vincent (my roommate XD), Sienna, and me](../images/hkust-life-1.png)
+<img src="../images/hkust-life-1.png" alt="From right to left: Andy, Vincent (my roommate XD), Sienna, and me" width="200" height="100">
 
 I asked Andy if he would be free on Sunday, he asked Vincent and Sienna. Then, Vincent and Sienna asked me XD. We were playing a circle game lol!
