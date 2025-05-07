@@ -30,7 +30,7 @@ I also want to use this space to share courses that I have taken at HKUST, for c
 
 ## Life Diary
 
-2025/05/04 Dimsum at China Garden. It is pretty hard to gather every person at 1 time.
+2025/05/04 Dimsum at China Garden. It is pretty hard to gather every person at 1 time. From right to left: Andy, Vincent (my roommate XD), Sienna, and me.
 
 <img src="../images/hkust-life-1.png" alt="From right to left: Andy, Vincent (my roommate XD), Sienna, and me" width="600" height="300">
 
