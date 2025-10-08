@@ -18,11 +18,10 @@ Education
 
 Research experience
 =====
+* 06/2025 - now: Work on a project about LLM's autonomous scientific discovery. More details will be posted soon!
 * 01/2025 - now: Working for Prof. Raymond Wong
   * Project: Improve Session-based Recommender Systems
   * Project: to be confirmed
-* 01/2025 - now: Working for Prof. Carsten Chong
-  * Project: 0DTE Options Pricing
 * 06/2024 - 12/2024: Research Assistant for Prof. Don Noh
   * Project: Application of Machine Learning to Financial Data, with Doris Yang Zimo
   * Replicate paper [(Re-)imag(in)ing Price Trends](https://economics.yale.edu/research/re-imagining-price-trends)
