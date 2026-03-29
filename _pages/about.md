@@ -27,14 +27,14 @@ Personal Activity
 
 (Tiếng Việt)
 Về bản thân
-=====
+======
 Hello mọi người đã tới website của mình! Mình đang là sanh viên năm cuối tại HKUST, Hong Kong, học CS, Math, Data Science, và Business. Trước đó ở Sài Gòn, mình học cấp 2 tại Trần Đại Nghĩa, và cấp 3 tại Phổ thông Năng Khiếu, lớp chuyên Toán.
 
 Mình hiện tại đang làm nghiên cứu về AI, đặc biệt là các câu hỏi liên qun tới AI4Science, AI4Scientific Discovery. Mình cũng đang muốn mở rộng hướng nghiên cứu, nên rất vinh dự được hợp tác nếu mọi người mở lời XD!
 
 【華語】
 自己介紹
-=====
+======
 大家好，歡迎參觀我的網站！我是香港科技大學的應屆畢業生，學CS，MATH，DSCT，和Business。我目前的研究方向是人工智慧在科學發現的應用（AI4Science，多謝Google Translate）。我對Computer Vision也有一點興趣，但沒時間：（
 
 我非常喜歡看影片！最近看的影片就是「如果我不曾見過太陽」。目前我正在學習華語和粵語。我華語還不錯，但我粵語沒有進步XD。
