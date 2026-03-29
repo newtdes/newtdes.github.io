@@ -30,7 +30,7 @@ Về bản thân
 ======
 Hello mọi người đã tới website của mình! Mình đang là sanh viên năm cuối tại HKUST, Hong Kong, học CS, Math, Data Science, và Business. Trước đó ở Sài Gòn, mình học cấp 2 tại Trần Đại Nghĩa, và cấp 3 tại Phổ thông Năng Khiếu, lớp chuyên Toán.
 
-Mình hiện tại đang làm nghiên cứu về AI, đặc biệt là các câu hỏi liên qun tới AI4Science, AI4Scientific Discovery. Mình cũng đang muốn mở rộng hướng nghiên cứu, nên rất vinh dự được hợp tác nếu mọi người mở lời XD!
+Mình hiện tại đang làm nghiên cứu về AI, đặc biệt là các câu hỏi liên quan tới AI4Science, AI4Scientific Discovery. Mình cũng đang muốn mở rộng hướng nghiên cứu, nên rất vinh dự được hợp tác nếu mọi người mở lời XD!
 
 【華語】
 自己介紹
