@@ -12,7 +12,7 @@ title                    : "Newt Nguyen"
 title_separator          : "-"
 name                     : &name "Newt Nguyen"
 description              : &description "personal description"
-url                      : "https://newtdes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+ url                      : "https://newtdes.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "IMG_6393_close_face.png"
-  name             : "Newt KHN Nguyen 阮金喙南"
+  name             : "Newt Nguyen"
   pronouns         : "he/him"  
   bio              : "HKUST"
   location         : "Hong Kong"
