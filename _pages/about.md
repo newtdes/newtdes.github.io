@@ -25,9 +25,9 @@ I am also a Poker player, and a fan of boardgame (althought I don't play much :P
 
 Personal Activity
 ======
+* (02/2026) My co-first paper has been accepted to ICLR 2026! Check it out here: [NewtonBench](https://arxiv.org/abs/2510.07172)
 * (09/2025) Stay tuned for my upcoming publication!
 * (05/2025) I will be joining 2025 HKUST-SNU SPIA this summer!
-* (04/2025) The partial [code](https://github.com/newtdes/cnn-stock-image-analysis) of my project [(Re-)imag(in)ing Price Trends](https://economics.yale.edu/research/re-imagining-price-trends) is now public.
 
 Weekly Calendar
 =====
